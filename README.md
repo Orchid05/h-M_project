@@ -18,7 +18,7 @@
 | Prénom & Nom | Rôle / Tâches principales | Lien Github |
 |--------------|---------------------------|-------------|
 | Hiba Mksoud  |  Dashboard, login | [@pseudo](https://github.com/orchid05) |
-| marwan el hatimi  | CRUD Utilisateurs   | [@pseudo](https://github.com/pseudo) |
+| Marwane Elhatimi  | CRUD Utilisateurs   | [@pseudo](https://github.com/pseudo) |
 
 
 ---
@@ -34,7 +34,7 @@
 <!-- Cochez les cases [x] pour les fonctionnalités terminées. Laissez [ ] pour ce qui n'est pas fait. -->
 
 ### Fonctionnalités Principales
-- [ ] **CRUD 1 :** [Nom Entité, ex: Utilisateurs] (Create, Read, Update, Delete)
+- [X] **CRUD 1 :** [Nom Entité, ex: Utilisateurs] (Create, Read, Update, Delete)
 - [ ] **CRUD 2 :** [Nom Entité]
 - [ ] **CRUD 3 :** [Nom Entité]
 - [ ] **CRUD 4 :** [Nom Entité]
