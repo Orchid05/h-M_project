@@ -19,7 +19,7 @@
 |--------------|---------------------------|-------------|
 | Hiba Mksoud  |  Dashboard, login | [@pseudo](https://github.com/orchid05) |
 | Marwane Elhatimi  | CRUD Utilisateurs   | [@pseudo](https://github.com/pseudo) |
-
+| mohamed reda chouni  | CRUD Utilisateurs   | [@pseudo](https://github.com/mohamedredachouni) |
 
 ---
 
